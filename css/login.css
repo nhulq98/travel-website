@@ -1,0 +1,24 @@
+body{
+   
+    background: 	#7FFFD4;
+}
+.table_div{
+    display: inline;
+   
+   
+}
+.login td{
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+}
+.login{
+    display: block;
+    margin: 100px 500px;
+    background: white;
+    
+}
+.title{
+    background:blue;
+    
+}
